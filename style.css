@@ -1,0 +1,146 @@
+.header{
+	background: url("images/itel-header.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	z-index: 0;
+}
+.bg-light{
+	background: transparent !important;
+}
+.navbar-light .navbar-nav .nav-link{
+	color: black;
+	font-weight: bold;
+	font-family: open-sans;
+	font-size: 1.2rem;
+}
+.navbar-light .navbar-brand{
+	color: black;
+	font-weight: bold;
+	font-family: open-sans;
+	font-size: 1.2rem;
+}
+.header .img-fluid, .third .img-fluid, .six .img-fluid{
+	opacity: 0;
+}
+.first h1{
+	font-size: 4rem;
+	padding: 30px;
+}
+.p1{
+	padding: 20px;
+	text-align: center;
+	font-size: 1.5rem;
+	font-family: open-sans;}
+	
+.pic1{
+	padding: 0;
+}
+.sec1{
+	padding: 0;
+}
+.third{
+	background: url("images/young.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	z-index: 0; 
+}
+.thir1{
+	text-align: center;
+}
+.thir1 h1{
+	padding: 50px;
+	font-family: open-sans;
+}
+.thir1 h1, .thir1 p{
+	font-family: open-sans;
+	color: black;
+}
+.forth .col-4, .last .col-4{
+	padding: 0;
+}
+.five{
+	padding: 50px 0 50px 0;
+}
+.five .col-7{
+	padding: 0
+}
+.five .col-5, .last .p2{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 1.5rem;
+	font-family: open-sans;
+}
+.last .p2{
+	padding: 30px;
+}
+.six{
+	background: url("images/itel5.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	z-index: 0; 
+}
+.last .img-fluid{
+	padding: 0;
+}
+.footer{
+	padding-top: 60px;
+	text-align: center;
+}
+.footer ul.social{
+	display: inline-block;
+	list-style-type: none;
+	margin: 0;
+
+	margin: 0 auto;
+}
+.footer ul.social li{
+	float: left;
+	padding: 5px;
+}
+
+a:link .fa-instagram{
+	color: #fb3958;
+}
+a:link .fa-youtube{
+	color: #FF3341;
+}
+a:link .fa-facebook{
+	color: #3352FF;
+}
+.blog-list li{
+	list-style-type: none;
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+.blog-list a{
+	color: blue;
+	font-family: open-sans;
+	font-size: 1.2rem;
+
+}
+.blog-list a:hover{
+	text-decoration: underline;
+	color: #666;
+
+}
+a.button{
+	border: 0 solid black;
+	border-radius: 25px;
+	font-family: open-sans;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	font-size: 24px;
+	background: #666; 
+	color: #ffffff;
+}
+.rights{
+	padding: 20px;
+	font-family: open-sans;
+	font-size: 1rem;
+}
